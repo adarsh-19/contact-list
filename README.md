@@ -1,2 +1,2 @@
-# contact-list
+# Contact-list
 Contact list to store information of contact number with name.
